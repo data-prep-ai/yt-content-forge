@@ -1,0 +1,18 @@
+# Generated/project media (do not commit giant binaries to git)
+06_PRODUCTION/**/03_ASSETS/raw/
+06_PRODUCTION/**/04_VOICE/raw/
+06_PRODUCTION/**/05_EDIT/cache/
+06_PRODUCTION/**/07_FINAL/*.mp4
+06_PRODUCTION/**/07_FINAL/*.mov
+07_ASSET_LIBRARY/**/*.wav
+07_ASSET_LIBRARY/**/*.mp3
+07_ASSET_LIBRARY/**/*.mp4
+07_ASSET_LIBRARY/**/*.mov
+07_ASSET_LIBRARY/**/*.zip
+
+# Local/system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.cache
+.env
